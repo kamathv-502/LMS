@@ -4,3 +4,4 @@ Currently using an Iterator pattern for the lending process,
 TODO:
 Complete th e reservation System Implementation
 Check for any resources on creating Recommendation Systems and Implement the same
+Implement Logging
